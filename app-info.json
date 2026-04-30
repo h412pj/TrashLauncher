@@ -1,6 +1,6 @@
 {
-  "versionCurrent": "1.0.0",
-  "versionLatest": "1.1.0",
+  "versionCurrent": "0.9.13",
+  "versionLatest": "0.9.13",
   "message": "Доступна новая версия лаунчера. Нажмите 'Перейти' для скачивания.",
-  "downloadUrl": "https://github.com/OWNER/REPO/releases/latest"
+  "downloadUrl": "https://github.com/h412pj/TrashLauncher"
 }
