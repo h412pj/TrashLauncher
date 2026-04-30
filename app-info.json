@@ -1,0 +1,6 @@
+{
+  "versionCurrent": "1.0.0",
+  "versionLatest": "1.1.0",
+  "message": "Доступна новая версия лаунчера. Нажмите 'Перейти' для скачивания.",
+  "downloadUrl": "https://github.com/OWNER/REPO/releases/latest"
+}
