@@ -2,6 +2,7 @@
   "name": "Цветной урон",
   "description": "Изменяет цвет сообщений урона в игре.",
   "version": "1.0",
+  "size": "20 KB",
   "thumbnailFile": "preview.png",
   "type": "files",
   "createFolders": [

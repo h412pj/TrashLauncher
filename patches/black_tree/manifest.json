@@ -2,6 +2,7 @@
   "name": "Чёрные деревья",
   "description": "Заменяет текстуры деревьев на чёрные пики.",
   "version": "1.0",
+  "size": "19.1 MB",
   "thumbnailFile": "preview.png",
   "type": "archive",
   "createFolders": [
