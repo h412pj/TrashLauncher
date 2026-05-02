@@ -1,0 +1,16 @@
+{
+  "name": "Цветной урон",
+  "description": "Изменяет цвет сообщений урона в игре.",
+  "version": "1.0",
+  "thumbnailFile": "preview.png",
+  "type": "files",
+  "createFolders": [
+    "element\\configs"
+  ],
+  "files": [
+    {
+      "filename": "fixed_msg.txt",
+      "targetSubPath": "element\\configs\\"
+    }
+  ]
+}

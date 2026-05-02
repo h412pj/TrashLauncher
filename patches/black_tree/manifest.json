@@ -1,0 +1,12 @@
+{
+  "name": "Чёрные деревья",
+  "description": "Заменяет текстуры деревьев на чёрные пики. Придаёт игровому миру мрачный и стильный вид.",
+  "version": "1.0",
+  "thumbnailFile": "preview.png",
+  "type": "archive",
+  "createFolders": [
+    "element\\trees"
+  ],
+  "archiveFile": "black_trees.zip",
+  "extractToSubPath": "element\\trees\\"
+}
