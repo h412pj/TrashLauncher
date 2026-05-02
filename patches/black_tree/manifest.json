@@ -5,7 +5,7 @@
   "thumbnailFile": "preview.png",
   "type": "archive",
   "createFolders": [
-    "element\\trees"
+    "black_trees\\element\\trees"
   ],
   "archiveFile": "black_trees.zip",
   "extractToSubPath": "black_trees\\element\\trees\\"
