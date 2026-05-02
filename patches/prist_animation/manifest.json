@@ -1,0 +1,22 @@
+{
+  "name": "Анимации приста",
+  "description": "Замена файлов анимации сферы и тарелки.",
+  "version": "1.0",
+  "size": "6.2 MB",
+  "installMode": "game",
+  "thumbnailFile": "preview.PNG",
+  "type": "files",
+  "createFolders": [
+    "element"
+  ],
+  "files": [
+    {
+      "filename": "elementskill.dll",
+      "targetSubPath": "element\\"
+    },
+    {
+      "filename": "ElementSkill_test.dll",
+      "targetSubPath": "element\\"
+    }
+  ]
+}

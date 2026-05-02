@@ -14,5 +14,14 @@
     "version": "1.0",
     "size": "19.1 MB",
     "thumbnailFile": "preview.PNG"
+  },
+  {
+    "id": "prist_animation",
+    "name": "Анимации приста",
+    "description": "Замена файлов анимации приста.",
+    "version": "1.0",
+    "size": "6.2 MB",
+    "installMode": "game",
+    "thumbnailFile": "preview.PNG"
   }
 ]
