@@ -10,7 +10,7 @@
   "files": [
     {
       "filename": "fixed_msg.txt",
-      "targetSubPath": "element\\configs\\"
+      "targetSubPath": "color_damage\\element\\configs\\"
     }
   ]
 }
