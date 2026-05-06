@@ -1,0 +1,24 @@
+{
+  "module": "elementclient.exe",
+  "sources": {
+    "chat_filter": {
+      "label": "Chat Filter",
+      "description": "6 tabs x 13 types (78 bytes). Static — no pointer chain.",
+      "dataSize": 78,
+      "staticOffset": "0x00C4CF25",
+      "offsets": []
+    },
+    "chi_energy": {
+      "label": "Чи",
+      "description": "Chi energy",
+      "staticOffset": "0x00BFEC50",
+      "offsets": ["0x4", "0x4E0"]
+    },
+    "fairy_energy": {
+      "label": "Энергия феи",
+      "description": "Fairy energy resource",
+      "staticOffset": "0x00BFEC50",
+      "offsets": ["0x4", "0x408", "0xAC"]
+    }
+  }
+}
