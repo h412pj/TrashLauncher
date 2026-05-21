@@ -1,1 +1,22 @@
-
+{
+  "comeback146": {
+    "servers": [
+      {
+        "name": "Main - EU",
+        "address": "29000:link146-main.comeback.pw"
+      },
+      {
+        "name": "Main - RU-I",
+        "address": "29002:link146-r1-main.comeback.pw"
+      },
+      {
+        "name": "Main - RU-II",
+        "address": "29002:link146-r2-main.comeback.pw"
+      },
+      {
+        "name": "Main - RU-III",
+        "address": "29002:link146-r3-main.comeback.pw"
+      }
+    ]
+  }
+}
