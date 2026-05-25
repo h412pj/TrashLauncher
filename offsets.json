@@ -3,7 +3,7 @@
   "sources": {
     "chat_filter": {
       "label": "Фильтр чата",
-      "description": "6 tabs x 13 types (78 bytes). Static — no pointer chain.",
+      "description": "6 tabs x 13 types (78 bytes)",
       "dataSize": 78,
       "staticOffset": "0x00C4CF25",
       "offsets": []
